@@ -1,1 +1,5 @@
 outputs/
+.venv/
+__pycache__/
+*.pyc
+Dataset_BUSI_with_GT/
